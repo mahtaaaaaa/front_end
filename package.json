@@ -1,0 +1,29 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "Front_End of my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahtaaaaaa/front_end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahtaaaaaa/front_end/issues"
+  },
+  "homepage": "https://github.com/mahtaaaaaa/front_end#readme",
+  "devDependencies": {
+    "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
